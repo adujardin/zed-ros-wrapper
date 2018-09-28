@@ -6,6 +6,9 @@ This package lets you use the ZED stereo camera with ROS. It outputs the camera 
 
 [More information](https://www.stereolabs.com/documentation/guides/using-zed-with-ros/introduction.html)
 
+[![Kinectic CI status](https://gitlab.com/adujardin/zed-ros-wrapper/badges/master/pipeline.svg)](https://gitlab.com/adujardin/zed-ros-wrapper/commits/master)
+
+
 ## Getting started
 
 - First, download the latest version of the ZED SDK on [stereolabs.com](https://www.stereolabs.com/developers/)
